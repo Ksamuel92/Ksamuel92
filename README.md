@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ksamuel92
+- 👋 Hi, I’m @Ksamuel92.
   I'm a professional musician turned software engineer who is passionate about delivering code that solves everyday problems, helps underserved communities,
 and looks good doing it.
 - 👀 I’m interested in ...
